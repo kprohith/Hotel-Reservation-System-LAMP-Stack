@@ -86,7 +86,7 @@
                 <div class="bg-help">
                     <div class="inBox">
                         <h1 id="logo"><a href='http://code.daypilot.org/27453/html5-hotel-room-booking-javascript-php'>Hotel Reservation System in Javascript/PHP/MYSQL</a></h1>
-                        <p id="claim"><a href="http://javascript.daypilot.org/">DMS Project 2020 </a>By Rohith Palakirti, Mukul Chauhan, Revanth Perla, Ananya Reddy</p>
+                        <p id="claim"><a href="http://javascript.daypilot.org/">DMS Project 2020 </a>By Rohith Palakirti, Mukul Chauhan, Revanth Perla</p>
                         <hr class="hidden" />
                     </div>
                 </div>
