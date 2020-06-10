@@ -1,0 +1,48 @@
+.slide{
+	width:800px;n
+	height: 400px;
+	background:url(1.jpg);
+	margin: 100px auto;
+	animation: slide 20s infinite;
+	transition: 3s;
+}
+@keyframes slide {
+
+0%{
+background:url(1.jpg);
+	
+}
+
+20%{
+	background:url(1.jpg);
+	
+}
+
+25%{
+	background:url(2.jpg);
+	
+}
+
+50%{
+	background:url(2.jpg);
+	
+}
+
+75%{
+	background:url(3.jpg);
+	
+}
+
+95%{
+	background:url(3.jpg);
+	
+}
+
+100%{
+	background:url(1.jpg);
+	
+}
+}
+.slide:hover {
+	transform: scale(1.2);
+}
