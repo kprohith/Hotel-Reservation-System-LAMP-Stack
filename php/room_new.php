@@ -3,9 +3,9 @@
     <head>
         <meta charset="UTF-8">
         <title>New Room</title>
-    	<link type="text/css" rel="stylesheet" href="media/layout.css" />    
-        <script src="js/jquery/jquery-1.9.1.min.js" type="text/javascript"></script>
-        <script src="js/daypilot/daypilot-all.min.js" type="text/javascript"></script>
+    	<link type="text/css" rel="stylesheet" href="../media/layout.css" />    
+        <script src="../js/jquery/jquery-1.9.1.min.js" type="text/javascript"></script>
+        <script src="../js/daypilot/daypilot-all.min.js" type="text/javascript"></script>
     </head>
     <body>
         <?php

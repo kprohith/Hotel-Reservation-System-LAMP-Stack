@@ -4,15 +4,15 @@
         <meta charset="UTF-8">
         <title>Hotel Reservation System)</title>
         <!-- demo stylesheet -->
-    	<link type="text/css" rel="stylesheet" href="media/layout.css" />
+    	<link type="text/css" rel="stylesheet" href="../media/layout.css" />
 
 	<!-- helper libraries -->
-	<script src="js/jquery/jquery-1.9.1.min.js" type="text/javascript"></script>
+	<script src="../js/jquery/jquery-1.9.1.min.js" type="text/javascript"></script>
 
 	<!-- daypilot libraries -->
-        <script src="js/daypilot/daypilot-all.min.js" type="text/javascript"></script>
+        <script src="../js/daypilot/daypilot-all.min.js" type="text/javascript"></script>
 
-        <link type="text/css" rel="stylesheet" href="icons/style.css" />
+        <link type="text/css" rel="stylesheet" href="../icons/style.css" />
 
         <style type="text/css">
             body, input, button, select {
